@@ -8,13 +8,13 @@
 
 ## XSS
 ### Writeups
-[Uber Bug Bounty: Turning Self-XSS into Good-XSS](https://whitton.io/articles/uber-turning-self-xss-into-good-xss/)
-[XSS Hunter](https://xsshunter.com/)
+* [Uber Bug Bounty: Turning Self-XSS into Good-XSS](https://whitton.io/articles/uber-turning-self-xss-into-good-xss/)
+* [XSS Hunter](https://xsshunter.com/)
 
 
 ### Payloads
-[XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
-[HTML5 Security Cheatsheet](https://html5sec.org/)
+* [XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
+* [HTML5 Security Cheatsheet](https://html5sec.org/)
 
 ## SQLi
 ### Payloads
@@ -22,3 +22,7 @@
 * [Pentestmonkey - MySQL SQL Injection Cheat Sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
 * [Netsparker - SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 
+
+## CSP
+### Writeups
+* [Weak CSP](https://dubell.io/exploiting-weak-content-security-policy-csp-rules-for-fun-and-profit/)
