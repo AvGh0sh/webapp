@@ -18,7 +18,7 @@
 
 ## SQLi
 ### Payloads
-[SQLinjectionwiki - MySQL SQL Injection Cheat Sheet](http://www.sqlinjectionwiki.com/categories/2/mysql-sql-injection-cheat-sheet/)
-[Pentestmonkey - MySQL SQL Injection Cheat Sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
-[Netsparker - SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
+* [SQLinjectionwiki - MySQL SQL Injection Cheat Sheet](http://www.sqlinjectionwiki.com/categories/2/mysql-sql-injection-cheat-sheet/)
+* [Pentestmonkey - MySQL SQL Injection Cheat Sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
+* [Netsparker - SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 
